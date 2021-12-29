@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>canyon cruiser on Holtron Entertainment</title>
+    <link>http://www.holtronentertainment.com/categories/canyon-cruiser/</link>
+    <description>Recent content in canyon cruiser on Holtron Entertainment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.holtronentertainment.com/categories/canyon-cruiser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog</title>
+      <link>http://www.holtronentertainment.com/blog/some-blog/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.holtronentertainment.com/blog/some-blog/</guid>
+      <description>So, fun story, finally got this site live. Obviously it still needs a lot of love, but that will come with time. I (Ben) will be trying to post updates to our projects in a timely manner. As of this writing, we are currently on version 0.5 of Canyon Cruiser. There are a few other game ideas in the braining phase, but nothing is sure yet. After Canyon Cruiser is finished, I&amp;rsquo;m hoping to pop back into the PC gaming world and work on a PvP FPS game utlizing Unity.</description>
+    </item>
+    
+  </channel>
+</rss>
